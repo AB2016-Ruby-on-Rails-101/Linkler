@@ -6,7 +6,7 @@
 * [GIT 101 ya da 100][12]
 * [GIT Flow][13]
 * [GIT Flow Cheatsheet][14]
-
+* [GIT Flow - Demo][15]
 
 ## Command Line
 
@@ -24,6 +24,7 @@
 [12]: https://speakerdeck.com/webbox/git-101-ya-da-100
 [13]: https://github.com/nvie/gitflow
 [14]: http://danielkummer.github.io/git-flow-cheatsheet/index.tr_TR.html
+[15]: https://asciinema.org/a/2h94vxekndm2ub2r2uen5k903
 
 [21]: https://gist.github.com/vigo/4014521
 [22]: http://kod.webbox.io/2014/08/28/semantik-versiyonlama-semver/
