@@ -19,6 +19,10 @@
 * [Ruby’i tanıyalım][31]
 * [Ruby 101 kitap][32]
 
+## Ruby on Rails
+
+* [MVC - 1][41]
+* [MVC - 2][42]
 
 [11]: https://speakerdeck.com/vigo/insanlar-icin-git
 [12]: https://speakerdeck.com/webbox/git-101-ya-da-100
@@ -32,3 +36,6 @@
 
 [31]: https://speakerdeck.com/vigo/rubyi-taniyalim
 [32]: https://www.gitbook.com/book/vigo/ruby-101
+
+[41]: http://www.sitepoint.com/getting-started-with-mvc/
+[42]: https://en.wikibooks.org/wiki/Ruby_on_Rails/Getting_Started/Model-View-Controller
