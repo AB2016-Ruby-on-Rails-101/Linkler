@@ -27,6 +27,8 @@
 
 * [MVC - 1][41]
 * [MVC - 2][42]
+* [DAO][43]
+* [ORM][44]
 
 [11]: https://speakerdeck.com/vigo/insanlar-icin-git
 [12]: https://speakerdeck.com/webbox/git-101-ya-da-100
@@ -43,3 +45,5 @@
 
 [41]: http://www.sitepoint.com/getting-started-with-mvc/
 [42]: https://en.wikibooks.org/wiki/Ruby_on_Rails/Getting_Started/Model-View-Controller
+[43]: https://en.wikipedia.org/wiki/Data_access_object
+[44]: https://en.wikipedia.org/wiki/Object-relational_mapping
