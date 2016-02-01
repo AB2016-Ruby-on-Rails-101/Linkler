@@ -7,11 +7,10 @@
 * [GIT Flow][13]
 * [GIT Flow Cheatsheet][14]
 * [GIT Flow Tutorial][16]
-* 
+
 ## GIT Flow - Demo
 
 [![asciicast](https://asciinema.org/a/35169.png)](https://asciinema.org/a/35169)
-
 
 ## Command Line
 
