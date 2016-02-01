@@ -1,12 +1,13 @@
 # Sunumlar
 
-## Git
+## Git & Git Flow
 
 * [İnsanlar için GIT][11]
 * [GIT 101 ya da 100][12]
 * [GIT Flow][13]
 * [GIT Flow Cheatsheet][14]
-
+* [GIT Flow Tutorial][16]
+* 
 ## GIT Flow - Demo
 
 [![asciicast](https://asciinema.org/a/35169.png)](https://asciinema.org/a/35169)
@@ -16,7 +17,8 @@
 
 * [BASH tips & tricks][21]
 * [SEMVER - 1][22]
-* [SEMVER - 2][23]
+* [SEMVER.TR - 2][23]
+* [SEMVER.TR - 2][24]
 
 ## Ruby
 
@@ -35,10 +37,12 @@
 [13]: https://github.com/nvie/gitflow
 [14]: http://danielkummer.github.io/git-flow-cheatsheet/index.tr_TR.html
 [15]: https://asciinema.org/a/2h94vxekndm2ub2r2uen5k903
+[16]: https://github.com/lab2023/playbook/blob/develop/development/git_github_gitflow.md#git-flow
 
 [21]: https://gist.github.com/vigo/4014521
 [22]: http://kod.webbox.io/2014/08/28/semantik-versiyonlama-semver/
 [23]: http://semver.org/lang/tr/
+[24]: https://github.com/lab2023/semver/blob/master/semver_tr.md
 
 [31]: https://speakerdeck.com/vigo/rubyi-taniyalim
 [32]: https://www.gitbook.com/book/vigo/ruby-101
