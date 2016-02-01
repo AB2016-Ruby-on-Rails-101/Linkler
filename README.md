@@ -103,6 +103,26 @@ git push -u origin master
 # yapabilirsiniz...
 ```
 
+# Heroku / Heroku Toolbelt
+
+Önce [https://signup.heroku.com/](https://signup.heroku.com/) adresinden
+hesap açın. Daha sonra **toolbelt**’i indirin:
+
+[https://toolbelt.heroku.com/](https://toolbelt.heroku.com/)
+
+## Ubuntu için Kurulum
+
+```bash
+cd
+echo "deb http://toolbelt.heroku.com/ubuntu ./" > heroku.list
+sudo mv heroku.list /etc/apt/sources.list.d/heroku.list
+wget -O- https://toolbelt.heroku.com/apt/release.key > release.key
+sudo apt-key add release.key
+sudo apt-get update
+sudo apt-get install heroku-toolbelt
+```
+
+
 
 [11]: https://speakerdeck.com/vigo/insanlar-icin-git
 [12]: https://speakerdeck.com/webbox/git-101-ya-da-100
